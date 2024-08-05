@@ -14,7 +14,7 @@
 
 - 4 - Sales ( Target)
 
-![Alt text](image.png)
+![Alt text](Photo/image.png)
 
 ### Important Question
 
@@ -62,7 +62,7 @@ $βˆ_1 = \frac{\sum_{i=1}^n (xi − x¯)(yi − y¯)}{\sum_{i=1}^n(x_i - x_¯)}
 
 $βˆ_0 = y¯ − βˆ1  * x$
 
-![Alt text](image-1.png)
+![Alt text](Photo/image-1.png)
 
 --- $βˆ0 = 7.03$ and, ---$βˆ1 = 0.0475.$
 
@@ -74,7 +74,7 @@ sample function will explain right away
 
 **where ε : is a mean-zero random error term**
 
-![Alt text](image-2.png)
+![Alt text](Photo/image-2.png)
 
 The analogy between linear regression and estimation of the mean of a random variable is an apt one based on the concept of bias,
 
@@ -92,7 +92,7 @@ so as we see we need a thing to tell us,
 
 here the standard error will do it for us,
 
-![Alt text](image-4.png)
+![Alt text](Photo/image-4.png)
 
 In general, $σ^2$ is not known, but can be estimated from the data. This estimate of σ is known as the residual standard error,
 
@@ -122,7 +122,7 @@ which measures the number of standard deviations that βˆ1 is away from 0.\*\*
 
 ### 1.1.3 Assessing The Accuracy Of The Model
 
-![Alt text](image-5.png)
+![Alt text](Photo/image-5.png)
 
 #### Residual Standard Error
 
@@ -150,7 +150,7 @@ R2 measures the proportion of variability in Y that can be explained using X. An
 
 **the other columns statistics**
 
-![Alt text](image-6.png)
+![Alt text](Photo/image-6.png)
 
 # 2. Multiple Linear Regression
 
@@ -166,13 +166,13 @@ but as we know the coefficients is unknown, and must be estimated
 
 $\hat{y} = \hat{β_0}  +  \hat{β_1}  * x_1  +  \hat{β_2}  * x_2  + ... +  \hat{β_n}  * x_n + ε$
 
-![Alt text](image-3.png)
+![Alt text](Photo/image-3.png)
 
 and there are also relationship between predictors and each other,
 
-![Alt text](image-8.png)
+![Alt text](Photo/image-8.png)
 
-![Alt text](image-7.png)
+![Alt text](Photo/image-7.png)
 
 that the correlation between radio and newspaper is 0.35,
 the markets with high newspaper adv, tend to also have high radio adv.
