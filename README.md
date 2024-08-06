@@ -31,7 +31,7 @@ Code the most of this learning method and not all just how i could
 
 | Name         | Algo                     |
 | ------------ | ------------------------ |
-<!-- | Supervised   | `1- Linear Regression`   | -->
+| Supervised   | `1- Linear Regression`   |
 <!-- |              | `2- Logistic Regression` | -->
 <!-- |              | `3- SVM`                 | -->
 <!-- |              | `4- Desecion Tree`       |
@@ -56,10 +56,13 @@ Code the most of this learning method and not all just how i could
 
 ![enter image description here](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXU1OGJ3bGpwZWhhMDR0cmtlb3A5M2tld3gydnhiemVjbTV4bXczZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9FZkGJyITMk1LUKRvK/giphy.gif)
 
+### as a pre-study
+- Statistics should be considered a primary tool, not just a secondary one, when making premium decisions.
+- there is video to recape and be in keep with me for krish naik
+- https://www.youtube.com/watch?v=LZzq1zSL1bs
 # Resources:
-
 > Book : **_An Introduction to Statistical Learning Python_** Link https://www.statlearning.com/
-
+> video : **A vdieo for the book** Link https://www.youtube.com/watch?v=LvySJGj-88U&list=PLoROMvodv4rPP6braWoRt5UCXYZ71GZIQ&index=1
 We hope could done it from the book only but if you still beginner
 i recommend take course the specialization from **_Andrew_** .
 or from Youtube **_Krish Naik_**, very very good one.
