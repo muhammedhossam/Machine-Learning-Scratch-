@@ -61,8 +61,8 @@ Code the most of this learning method and not all just how i could
 - there is video to recape and be in keep with me for krish naik
 - https://www.youtube.com/watch?v=LZzq1zSL1bs
 # Resources:
-> Book : **_An Introduction to Statistical Learning Python_** Link https://www.statlearning.com/
-> video : **A vdieo for the book** Link https://www.youtube.com/watch?v=LvySJGj-88U&list=PLoROMvodv4rPP6braWoRt5UCXYZ71GZIQ&index=1
+> Book : **_An Introduction to Statistical Learning Python_** Link https://www.statlearning.com/ <br>
+> video : **A vdieo for the book** Link https://www.youtube.com/watch?v=LvySJGj-88U&list=PLoROMvodv4rPP6braWoRt5UCXYZ71GZIQ&index=1 <br>
 We hope could done it from the book only but if you still beginner
 i recommend take course the specialization from **_Andrew_** .
 or from Youtube **_Krish Naik_**, very very good one.
