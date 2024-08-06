@@ -20,7 +20,7 @@ Code the most of this learning method and not all just how i could
 
 | Name           | Status  |
 | -------------- | ------- |
-| `Supervised`   | Linear Regression |
+| `Supervised`   | Work On |
 | `UnSupervised` | Not Yet |
 
 <br>
