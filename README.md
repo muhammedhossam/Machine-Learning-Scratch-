@@ -34,8 +34,8 @@ Code the most of this learning method and not all just how i could
 | Supervised   | `1- Linear Regression`   |
 <!-- |              | `2- Logistic Regression` | -->
 <!-- |              | `3- SVM`                 | -->
-<!-- |              | `4- Desecion Tree`       |
-|              | `5- KNN`                 |
+|              | `4- Desecion Tree`       |
+<!--|              | `5- KNN`                 |
 |              | `6- Naive Bayes`         |
 |              | `7- PCA`                 |
 |              | `8- Deep Nural Network`  |
