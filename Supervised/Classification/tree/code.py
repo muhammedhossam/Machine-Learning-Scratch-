@@ -7,7 +7,7 @@ from sklearn.datasets import make_classification
 
 
 X, y = make_classification(
-    n_samples=20000,
+    n_samples=200,
     n_features=10,
     n_informative=8,
     n_classes=2,
