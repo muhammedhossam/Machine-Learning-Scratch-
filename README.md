@@ -29,18 +29,18 @@ Code the most of this learning method and not all just how i could
 
 ## Algorithms:
 
-| Name         | Algo                     |
-| ------------ | ------------------------ |
-| Supervised   | `1- Linear Regression`   |
-<!-- |              | `2- Logistic Regression` | -->
-<!-- |              | `3- SVM`                 | -->
-|              | `4- Desecion Tree`       |
-<!--|              | `5- KNN`                 |
-|              | `6- Naive Bayes`         |
-|              | `7- PCA`                 |
-|              | `8- Deep Nural Network`  |
-| Unsupervised | `1- Kmeans`              |
-|              | `2- Anomly Detection`    | -->
+| Name             | Algo                     | Done      |
+|------------------| ------------------------ |-----------|
+| **Supervised**   | `1- Linear Regression`   | `Done`    | 
+|                  | `2- Logistic Regression` | `Done`    |
+|                  | `3- SVM`                 | `Not Yet` |
+|                  | `4- Desecion Tree`       | `Done`    |
+|                  | `5- KNN`                 | `Not Yet` |
+|                  | `6- Naive Bayes`         | `Not Yet` | 
+|                  | `7- PCA`                 | `Not Yet` |
+|                  | `8- Deep Nural Network`  | `Not Yet` |
+| **Unsupervised** | `1- Kmeans`              | `Not Yet` |
+|                  | `2- Anomly Detection`    | `Not Yet` |
 
 ---
 
